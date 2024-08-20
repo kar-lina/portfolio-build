@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "name": "Cryptonomicon",
+      "description": "Real-time cryptocurrency converter - shows the exchange rate of the selected cryptocurrency to the dollar. To ensure correct work with multiple tabs, data exchange via <b>Shared Workers</b was configured.",
+      "tools": "Vue.js 2, JS, HTML/SCSS, Websokets, Shared workers.",
+      "img": "img/projects/cryptonomicon.png",
+      "link": ""
+    },
+    {
+      "name": "Monster-Slayer-Game",
+      "description": "A simple game written using the Vue3 framework. The rules are as follows. You have to defeat a monster by attacking it, provided the monster always attacks back. You can also use healing. All attacks are recorded in the history of the battle, where you can see the action and the damage that was done.",
+      "tools": "Vue.js 2, JS, HTML/SCSS, Vue-cli.",
+      "img": "img/projects/game.png",
+      "link": "https://github.com/kar-lina/Monster-Slayer-Game"
+    },
+    {
+      "name": "Omnifood",
+      "description": "This landing page  is a web template that I created targeting the restaurant and food industry which anyone can use to present their business online. ",
+      "tools": "JS, HTML, SCSS.",
+      "img": "img/projects/omnifood.png",
+      "link": "https://kar-lina.github.io/Omnifood/"
+    },
+    {
+      "name": "Planner",
+      "description": "Planner App with edit, delete and complete functions. It’s also possible to add new projects in this app.",
+      "tools": "Vue.js 3, JS, HTML/SCSS, JSON Server.",
+      "img": "img/projects/todo.png",
+      "link": "https://github.com/kar-lina/todo-app"
+    },
+    {
+      "name": "Funiro",
+      "description": "Landing site for a furniture store (with responsive adaptive design, dynamic loading of products and adding/removing them to the cart).",
+      "tools": "JS, HTML/SCSS, Webpack, Gulp, Swiper.js.",
+      "img": "img/projects/funiro.png",
+      "link": "https://github.com/kar-lina/funiro"
+    },
+    {
+      "name": "Webpack Config",
+      "description": "Starter webpack template for developing and building projects using React, TS, Css modiles, SCSS.",
+      "tools": "JS, HTML/SCSS, React,  Webpack.",
+      "img": "img/projects/webpack.jpg",
+      "link": "https://github.com/kar-lina/webpack-config"
+    },
+    {
+      "name": "Auth App",
+      "description": "Application with authorization on jwt tokens, as well as the second factor - updated code in the Google Authenticator application (software token). The principles of responsive design, form validation and route protection were used.",
+      "tools": "Frontend - Vue.js + Nuxt.js + Pinia + Tailwind (Daisy ui). Backend - Nest.js (passprt jwt + otplib) + PostgeSQL.",
+      "img": "img/projects/auth-app.png",
+      "link": "https://github.com/kar-lina/auth-app"
+    },
+    {
+      "name": "Next Pizza",
+      "description": "The application is a clone of Dodo Pizza with a basket, filtering, order processing, authorization and admin panel.",
+      "tools": "Frontend - TypeScript, React.js + Next.js + Zustand + Tailwind. Backend - Next.js, Prisma.",
+      "img": "img/projects/next-pizza.png",
+      "link": "https://github.com/kar-lina/next-pizza"
+    },
+    {
+      "name": "Chekhov Orchad",
+      "description": "The project for the company's clients is a multi-page website for the Chekhov Museum Reserve with non-standard animation, a version for the visually impaired and language localization.",
+      "tools": "Frontend - TypeScript, Vue.js + Nuxt.js + Pinia + Tailwind. Backend - модуль RestApi для Bitrix.",
+      "img": "img/projects/checkhov.png",
+      "link": "https://chekhovmuseum.com"
+    },
+    {
+      "name": "Technika Pro",
+      "description": "Multi-page site for medical equipment suppliers, with multi-level menu, breadcrumbs, filtering and modal system.",
+      "tools": "Frontend - JavaScript, HTML (FileIncludes) + SCSS. Webpack, Gulp.",
+      "img": "img/projects/tech-pro.png",
+      "link": "https://www.technika-pro.ru"
+    }
+  ]
+}

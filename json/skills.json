@@ -1,0 +1,48 @@
+{
+  "skills": [
+    {
+      "year": {
+        "start": 2022,
+        "end": 2024
+      },
+      "company": "G-Lab",
+      "position": "JavaScript Software Engineer",
+      "description": "I have been actively involved in the end-to-end development process, from conceptualization to production. I am well-versed in SCRUM methodologies, including task planning, time estimation, and participation in sprints. Developed and maintained existing modules in the system of registration and processing of applications from external applicants, including interaction with telephony. Was involved in the layout of adaptive modules based on Figma layouts using BEM methodology.",
+      "link": "http://www.g-lab.ru",
+      "skills": ["React", "Vue", "Vuex", "Pinia", "Nuxt", "Axios", "Tailwind", "Vuetify", "JQuery", "Terminal", "Vite", "Webpack"]
+    },
+    {
+      "year": {
+        "start": 2021,
+        "end": 2022
+      },
+      "company": "Fullstack Employee",
+      "position": "Frontend Developer",
+      "description": "Design and development of user interfaces. Projecting layout. Writing HTTP request. Participation in the development of an e-commerce platform operating in the Baltic States.",
+      "link": "",
+      "skills": ["Vue", "Laravel", "HTML/SCSS", "Terminal"]
+    },
+    {
+      "year": {
+        "start": 2020,
+        "end": 2021
+      },
+      "company": "Freelance/Pet projects",
+      "position": "Frontend Developer",
+      "description": "Developing and maintaining websites and web applications. Creating and maintaining web applications using React, Vue.",
+      "link": "https://github.com/kar-lina",
+      "skills": ["React", "Vue", "Angular", "Nuxt", "Tailwind", "Vuetify", "JQuery", "Terminal"]
+    },
+    {
+      "year": {
+        "start": 2017,
+        "end": 2023
+      },
+      "company": "Donetsk National University",
+      "position": "Master of Applied Mathematics and Computer Science",
+      "description": "In applied math and computer science, I learned how to work with important programming tools. We learn Python, C++, and Java to create algorithms and develop applications. I also learned databases and SQL to work with information, algorithms and data structures while preparing certification projects.",
+      "link": "",
+      "skills": ["C++", "HTML/CSS", "SQL", "Databases", "Algorithms and data structures", "R/Python" ]
+    }
+  ]
+}
